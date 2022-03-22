@@ -177,6 +177,7 @@ compress_html:
     envs: [development]
 
 exclude:
+  - '*.lock'
   - '*.gem'
   - '*.gemspec'
   - tools
