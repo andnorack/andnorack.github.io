@@ -28,7 +28,7 @@ tagline: Bug Bounty Hunter • Computer Science Student • Web 3.0 Exorcist �
 description: Bug Bounty Hunter • Computer Science Student • Web 3.0 Exorcist 🔥 # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: #'https://andnorack.github.io'
+url: 'https://andnorack.github.io'
 
 github:
   username: andnorack             # change to your github username
